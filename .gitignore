@@ -1,0 +1,8 @@
+*.o
+*.db
+*.conf
+contact_manager_cli
+contact_manager_gtk
+contact_manager_gtk_executable
+contact_manager_gtk-gui
+temp_dir/
